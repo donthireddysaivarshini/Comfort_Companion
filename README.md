@@ -16,7 +16,7 @@ In our fast-paced world, feelings of stress, anxiety, and loneliness are becomin
 Our mission is to provide a safe, nurturing, and accessible space where users can feel heard, validated, and gently guided towards better mental well-being. We've combined cutting-edge AI with a beautifully designed, calming interface to create an experience that feels like a warm embrace.
 
 ---
-
+[demo](https://youtube.com/shorts/y30KUuzFi1o?feature=share)
 ## 🌟 Key Features
 
 *   **Empathetic, Context-Aware Conversations:** Powered by Google's Gemini Pro, Comfort Companion doesn't just respond; it *listens*. It remembers key details from your conversation to provide continuous, context-aware support, making you feel truly seen and heard.

@@ -16,8 +16,11 @@ In our fast-paced world, feelings of stress, anxiety, and loneliness are becomin
 Our mission is to provide a safe, nurturing, and accessible space where users can feel heard, validated, and gently guided towards better mental well-being. We've combined cutting-edge AI with a beautifully designed, calming interface to create an experience that feels like a warm embrace.
 
 ---
+
 ## Live Demo
 Check out Comfort Companion here: [Demo](https://youtube.com/shorts/y30KUuzFi1o?feature=share)
+
+---
 
 ## 🌟 Key Features
 
@@ -27,6 +30,8 @@ Check out Comfort Companion here: [Demo](https://youtube.com/shorts/y30KUuzFi1o?
 *   **Beautiful, Calming Interface:** The user interface is intentionally designed with a warm, soothing palette of soft lavender, cream, and gentle mint. Every element, from the rounded message bubbles to the 'Literata' font, is chosen to create a tranquil and safe environment.
 *   **Fully Responsive & Accessible:** Built with a mobile-first approach,Comfort Companion offers a seamless, intuitive experience on any device—phone, tablet, or desktop.
 
+---
+
 ## 🤖 How It Was Built: The Tech Stack
 
 Comfort Companion is a modern, full-stack application built with a focus on performance, scalability, and user experience.
@@ -35,7 +40,9 @@ Comfort Companion is a modern, full-stack application built with a focus on perf
 *   **Generative AI:** **Google's Genkit** orchestrates our AI flows, leveraging the powerful **Gemini Pro** model for natural, empathetic dialogue.
 *   **Styling:** **Tailwind CSS** for a utility-first, responsive design system.
 *   **UI Components:** **ShadCN UI** for a set of beautifully designed, accessible, and composable components.
-*   **Hosting:** Deployed on **Firebase App Hosting** for scalable, secure, and reliable delivery.
+*   **Hosting:** Deployed on **Firebase App Hosting** for scalable, secure, and reliable delivery
+
+---
 
 ### Innovative AI Implementation
 
@@ -44,6 +51,8 @@ Our use of AI goes beyond simple prompting. We've built a sophisticated system u
 1.  **`empatheticResponseFlow`**: This core flow maintains the context of the conversation, allowing Comfort Companion to reference past messages and provide deeply relevant support.
 2.  **`personalizedSelfCareFlow`**: This flow uses a custom AI **Tool** that connects to a "database" of self-care suggestions. The AI determines the user's emotion and uses the tool to retrieve the most appropriate, helpful advice.
 3.  **Session-Based Memory**: To enhance personalization without compromising privacy, Comfort Companion uses a session-based memory system, allowing it to remember details within a single conversation for more meaningful follow-ups.
+
+---
 
 ## 🚀 Getting Started
 
@@ -71,7 +80,7 @@ To run Comfort Companion locally:
     npm run dev
     ```
 
-
+---
    
 ## ❤️ Why Comfort Companion Matters
 
